@@ -1,16 +1,28 @@
-### Hi there 👋
+###  HAYASHI <img src="https://cdn.discordapp.com/emojis/796888458793713695.gif?v=1" width="28px"/>
 
-<!--
-**dcHayashi/dcHayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#####  🧪 Hi! well, i'm a programmer. for now, I'm in the basics and intend to become extremely advanced in JS and Py.
 
-Here are some ideas to get you started:
+####  🌏 Fukoaka, Japan
+####  ⛓ CEO VIII
+####  ✨ I intend to have knowledge in the area of pentest 
+--- 
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/797514271562793000/797650270690476082/wh6.gif" height="280px" width="454px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### <img src="https://cdn.discordapp.com/emojis/795323206595641415.gif?v=1" width="32px"> ページをめくるか、本を閉じるかを選択する必要があるかもしれません。<img src="https://cdn.discordapp.com/emojis/795323206595641415.gif?v=1" width="32px">
+
+#
+
+### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/780099855182856192.gif?v=1" width="32px"/>*
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="380" />](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=TDAz25VcS-i-qPEKS1Q5vw)
+---
+#
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical" alt="hayashiVIII"/></p>
+
+
+#
+"素 
+直
+に
+な
+れ"
