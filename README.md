@@ -17,7 +17,7 @@
 ---
 #
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dcHayashi&show_icons=true&theme=radical" alt="dcHayashi"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="dcHayashi"/></p>
 
 
 #
